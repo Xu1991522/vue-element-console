@@ -2,7 +2,7 @@
 
 ```bash
 # clone the project
-git clone http://10.0.90.51/xuyh/admin-yhchain.git
+git clone https://github.com/Xu1991522/vue-element-console.git
 
 # install dependency
 npm install
